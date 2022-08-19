@@ -1,0 +1,15 @@
+C:\Users\SUDIR\Desktop\zadacha\HT5\SumNechet\obj\Debug\net6.0\SumNechet.csproj.AssemblyReference.cache
+C:\Users\SUDIR\Desktop\zadacha\HT5\SumNechet\obj\Debug\net6.0\SumNechet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUDIR\Desktop\zadacha\HT5\SumNechet\obj\Debug\net6.0\SumNechet.AssemblyInfoInputs.cache
+C:\Users\SUDIR\Desktop\zadacha\HT5\SumNechet\obj\Debug\net6.0\SumNechet.AssemblyInfo.cs
+C:\Users\SUDIR\Desktop\zadacha\HT5\SumNechet\obj\Debug\net6.0\SumNechet.csproj.CoreCompileInputs.cache
+C:\Users\SUDIR\Desktop\zadacha\HT5\SumNechet\bin\Debug\net6.0\SumNechet.exe
+C:\Users\SUDIR\Desktop\zadacha\HT5\SumNechet\bin\Debug\net6.0\SumNechet.deps.json
+C:\Users\SUDIR\Desktop\zadacha\HT5\SumNechet\bin\Debug\net6.0\SumNechet.runtimeconfig.json
+C:\Users\SUDIR\Desktop\zadacha\HT5\SumNechet\bin\Debug\net6.0\SumNechet.dll
+C:\Users\SUDIR\Desktop\zadacha\HT5\SumNechet\bin\Debug\net6.0\SumNechet.pdb
+C:\Users\SUDIR\Desktop\zadacha\HT5\SumNechet\obj\Debug\net6.0\SumNechet.dll
+C:\Users\SUDIR\Desktop\zadacha\HT5\SumNechet\obj\Debug\net6.0\refint\SumNechet.dll
+C:\Users\SUDIR\Desktop\zadacha\HT5\SumNechet\obj\Debug\net6.0\SumNechet.pdb
+C:\Users\SUDIR\Desktop\zadacha\HT5\SumNechet\obj\Debug\net6.0\SumNechet.genruntimeconfig.cache
+C:\Users\SUDIR\Desktop\zadacha\HT5\SumNechet\obj\Debug\net6.0\ref\SumNechet.dll
