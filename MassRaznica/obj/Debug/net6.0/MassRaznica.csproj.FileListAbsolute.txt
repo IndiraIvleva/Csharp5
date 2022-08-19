@@ -1,0 +1,15 @@
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassRaznica\bin\Debug\net6.0\MassRaznica.exe
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassRaznica\bin\Debug\net6.0\MassRaznica.deps.json
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassRaznica\bin\Debug\net6.0\MassRaznica.runtimeconfig.json
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassRaznica\bin\Debug\net6.0\MassRaznica.dll
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassRaznica\bin\Debug\net6.0\MassRaznica.pdb
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassRaznica\obj\Debug\net6.0\MassRaznica.csproj.AssemblyReference.cache
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassRaznica\obj\Debug\net6.0\MassRaznica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassRaznica\obj\Debug\net6.0\MassRaznica.AssemblyInfoInputs.cache
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassRaznica\obj\Debug\net6.0\MassRaznica.AssemblyInfo.cs
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassRaznica\obj\Debug\net6.0\MassRaznica.csproj.CoreCompileInputs.cache
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassRaznica\obj\Debug\net6.0\MassRaznica.dll
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassRaznica\obj\Debug\net6.0\refint\MassRaznica.dll
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassRaznica\obj\Debug\net6.0\MassRaznica.pdb
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassRaznica\obj\Debug\net6.0\MassRaznica.genruntimeconfig.cache
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassRaznica\obj\Debug\net6.0\ref\MassRaznica.dll
