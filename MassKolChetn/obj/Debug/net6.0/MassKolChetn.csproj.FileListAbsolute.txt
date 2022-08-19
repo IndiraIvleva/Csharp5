@@ -1,0 +1,15 @@
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassKolChetn\obj\Debug\net6.0\MassKolChetn.csproj.AssemblyReference.cache
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassKolChetn\obj\Debug\net6.0\MassKolChetn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassKolChetn\obj\Debug\net6.0\MassKolChetn.AssemblyInfoInputs.cache
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassKolChetn\obj\Debug\net6.0\MassKolChetn.AssemblyInfo.cs
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassKolChetn\obj\Debug\net6.0\MassKolChetn.csproj.CoreCompileInputs.cache
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassKolChetn\bin\Debug\net6.0\MassKolChetn.exe
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassKolChetn\bin\Debug\net6.0\MassKolChetn.deps.json
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassKolChetn\bin\Debug\net6.0\MassKolChetn.runtimeconfig.json
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassKolChetn\bin\Debug\net6.0\MassKolChetn.dll
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassKolChetn\bin\Debug\net6.0\MassKolChetn.pdb
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassKolChetn\obj\Debug\net6.0\MassKolChetn.dll
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassKolChetn\obj\Debug\net6.0\refint\MassKolChetn.dll
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassKolChetn\obj\Debug\net6.0\MassKolChetn.pdb
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassKolChetn\obj\Debug\net6.0\MassKolChetn.genruntimeconfig.cache
+C:\Users\SUDIR\Desktop\zadacha\HT5\MassKolChetn\obj\Debug\net6.0\ref\MassKolChetn.dll
